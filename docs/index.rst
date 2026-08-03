@@ -1,13 +1,13 @@
 How to Login to Your Suddenlink Email Account?
 ===============================================================================
 
-
+|
 .. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: Center
    :target: https://aclogportal.net/
    :alt: Login Now Button
-
+|
 
 
 
