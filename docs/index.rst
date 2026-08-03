@@ -1,5 +1,6 @@
 How to Login to Your Suddenlink Email Account?
 ===============================================================================
+
 |
 .. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
@@ -7,9 +8,8 @@ How to Login to Your Suddenlink Email Account?
    :target: https://aclogportal.net/
    :alt: Login Now Button
 |
-|
-|
-============
+
+
 
 A Suddenlink email account allows customers to send and receive emails while staying connected with their internet services. Although Suddenlink has transitioned under the Optimum brand in many regions, many users continue using their existing Suddenlink email addresses without interruption.
 
